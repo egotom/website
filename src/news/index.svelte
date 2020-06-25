@@ -8,11 +8,11 @@
 	export let uri;
 </script>
 
+<Header/>
 <main>
-
-	<h1>{uri}</h1>
-
+	<h1>Hello {uri}!</h1>
 </main>
+<Footer/>
 
 <style>
 

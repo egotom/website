@@ -6,13 +6,12 @@
 	export let name;
 	console.log('sev:',sev);
 </script>
+
 <Header/>
 <main>
 	<h1>Hello {name}!</h1>
 </main>
 <Footer/>
 
-
 <style>
-
 </style>
